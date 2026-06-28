@@ -1,0 +1,28 @@
+Raw Sources
+      │
+      ▼
+Normalize
+      │
+      ▼
+Remove http/https
+      │
+      ▼
+Lowercase
+      │
+      ▼
+Regex Validation (FQDN)
+      │
+      ▼
+Deduplicate
+      │
+      ▼
+dnsx
+      │
+      ▼
+httpx
+      │
+      ▼
+katana
+      │
+      ▼
+nuclei
